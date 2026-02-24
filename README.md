@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! <br/><a href="https://github.com/Samcybertech">Programmer/Pen-Tester</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sam! <br/><a href="https://github.com/Samcybertech">Programmer/Pen-Tester</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
