@@ -62,7 +62,7 @@ What sets me apart: **Deep expertise in integrating AI/ML** into pentesting work
 - **https://github.com/Samcybertech/Red-team-Ai-script**  
   Scripts using LLMs for recon automation, evasion, and report generation
 
-- **[ad-attack-lab](https://github.com/yourusername/ad-attack-lab)**  
+- **https://github.com/Samcybertech/ad-attack-lab**  
   Documented Active Directory attack paths with BloodHound graphs
 
 - **[exploit-gen-poc](https://github.com/yourusername/exploit-gen-poc)**  
