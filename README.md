@@ -56,7 +56,7 @@ What sets me apart: **Deep expertise in integrating AI/ML** into pentesting work
 
 ### Featured Projects
 
-- **[ai-fuzzer](https://github.com/yourusername/ai-fuzzer)**  
+- **[https://github.com/Samcybertech/Detection-Lab](https://github.com/yourusername/ai-fuzzer)**  
   ML-powered web fuzzer that learns and mutates payloads intelligently
 
 - **[redteam-ai-scripts](https://github.com/yourusername/redteam-ai-scripts)**  
