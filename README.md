@@ -45,27 +45,28 @@ What sets me apart: **Deep expertise in integrating AI/ML** into pentesting work
 - AI/ML: TensorFlow/PyTorch, Hugging Face, custom LLM integrations
 - Others: Wireshark, John the Ripper, Hashcat, Ghidra
 
+### Certifications
 
+- **Certified Ethical Hacker (CEH)** — EC-Council
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+<div align="center">
+  <img src="https://kpnaqusfwtcrfoylvxop.supabase.co/storage/v1/object/public/course-logos/ec-council-certified-ethical-hacker-1768940161888.png" width="180" alt="CEH Badge">
+  <img src="https://iclass.eccouncil.org/wp-content/uploads/2024/09/CEHv13.png" width="220" alt="CEH v13">
+</div>
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+### Connect
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+- GitHub: [Samcybertech](https://github.com/Samcybertech)  
+- LinkedIn: [linkedin.com/in/eyitayo-omodara-03b313337](https://linkedin.com/in/yourprofile)  
+- X/Twitter: [@SamTechwest](https://x.com/yourhandle)  
+- Email: devanking6@outlook.com (or your secure email)
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Open to collab on open-source security tools, AI-pentest ideas, or CTF writeups.
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<div align="center">
+  <i>"Attack smarter — with AI."</i>
+</div>
+
 
 ### Network
 <div>
@@ -97,6 +98,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
