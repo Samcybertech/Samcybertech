@@ -52,23 +52,9 @@ What sets me apart: **Deep expertise in integrating AI/ML** into pentesting work
 <div align="center">
   <img src="https://kpnaqusfwtcrfoylvxop.supabase.co/storage/v1/object/public/course-logos/ec-council-certified-ethical-hacker-1768940161888.png" width="180" alt="CEH Badge">
   <img src="https://iclass.eccouncil.org/wp-content/uploads/2024/09/CEHv13.png" width="220" alt="CEH v13">
-</div>
+</div
 
-### Connect
-
-- GitHub: [Samcybertech](https://github.com/Samcybertech)  
-- LinkedIn: [linkedin.com/in/eyitayo-omodara-03b313337](https://linkedin.com/in/yourprofile)  
-- X/Twitter: [@SamTechwest](https://x.com/yourhandle)  
-- Email: devanking6@outlook.com (or your secure email)
-
-Open to collab on open-source security tools, AI-pentest ideas, or CTF writeups.
-
-<div align="center">
-  <i>"Attack smarter — with AI."</i>
-</div>
-
-
-### Network
+  ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -88,13 +74,20 @@ Open to collab on open-source security tools, AI-pentest ideas, or CTF writeups.
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+### Connect
+
+- GitHub: [Samcybertech](https://github.com/Samcybertech)  
+- LinkedIn: [linkedin.com/in/eyitayo-omodara-03b313337](https://linkedin.com/in/yourprofile)  
+- X/Twitter: [@SamTechwest](https://x.com/yourhandle)  
+- Email: devanking6@outlook.com (or your secure email)
+
+Open to collab on open-source security tools, AI-pentest ideas, or CTF writeups.
+
+<div align="center">
+  <i>"Attack smarter — with AI."</i>
 </div>
+
+
+
+
 
