@@ -59,7 +59,7 @@ What sets me apart: **Deep expertise in integrating AI/ML** into pentesting work
 - **https://github.com/Samcybertech/Detection-Lab**  
   ML-powered web fuzzer that learns and mutates payloads intelligently
 
-- **[redteam-ai-scripts](https://github.com/yourusername/redteam-ai-scripts)**  
+- **https://github.com/Samcybertech/Red-team-Ai-script**  
   Scripts using LLMs for recon automation, evasion, and report generation
 
 - **[ad-attack-lab](https://github.com/yourusername/ad-attack-lab)**  
