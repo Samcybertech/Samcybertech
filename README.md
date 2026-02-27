@@ -68,7 +68,7 @@ What sets me apart: **Deep expertise in integrating AI/ML** into pentesting work
 - **https://github.com/Samcybertech/Exploit-gen-poc**  
   Proof-of-concept using generative AI to draft & refine exploit code
 
-- **[ceh-writeups](https://github.com/yourusername/ceh-writeups)**  
+- **https://github.com/Samcybertech/ceh-writeups**  
   Detailed walkthroughs from CEH labs and challenges
 
 
