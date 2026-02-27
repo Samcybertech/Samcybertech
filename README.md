@@ -41,7 +41,7 @@ What sets me apart: **Deep expertise in integrating AI/ML** into pentesting work
 
 **Tools & Tech Stack**
 - Languages: Python, Bash, Go, PowerShell
-- Frameworks: Metasploit, Empire, Sliver
+- Frameworks: Metasploit, Empire, Sliver, AdaptixC2
 - AI/ML: TensorFlow/PyTorch, Hugging Face, custom LLM integrations
 - Others: Wireshark, John the Ripper, Hashcat, Ghidra
 
