@@ -100,8 +100,7 @@ What sets me apart: **Deep expertise in integrating AI/ML** into pentesting work
 
 ### Connect
 
-- GitHub: [Samcybertech](https://github.com/Samcybertech)  
-- LinkedIn: [https://linkedin.com/in/eyitayo-omodara-03b313337](https://linkedin.com/in/yourprofile)  
+- GitHub: [Samcybertech](https://github.com/Samcybertech)   
 - X/Twitter: [@SamTechwest](https://x.com/yourhandle)  
 - Email: devanking6@outlook.com
 
